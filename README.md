@@ -1,4 +1,4 @@
-# 🚀 Kanban Project Manager
+# 🚀 Kanban Project Manager Frontend
 
 A modern, responsive Kanban board application built with React, featuring drag-and-drop functionality, AI-powered insights, and a beautiful user interface.
 
