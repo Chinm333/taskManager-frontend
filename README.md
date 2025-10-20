@@ -227,6 +227,6 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ by the Development Team**
+**Made with ❤️ by Chinmoy Das (https://chinmoydas.netlify.app/)**
 
 *Happy coding! 🚀*
