@@ -62,7 +62,7 @@ A modern, responsive Kanban board application built with React, featuring drag-a
 3. **Environment Configuration**
    Create a `.env` file in the root directory:
    ```env
-   REACT_APP_API_URL=http://localhost:5000/api
+   REACT_APP_API_URL=http://localhost:8000/api
    ```
 
 4. **Start the development server**
